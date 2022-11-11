@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu Manoj Shinde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 - 📫 How to reach me **shantanushinde36@gmail.com**
 
